@@ -4,3 +4,5 @@ except ZeroDivisionError as error:
     print(error)
 else:
     print("anwb,ygbkm")
+finally:
+    print("w")
